@@ -1,0 +1,57 @@
+[
+  {
+    "Id": 1,
+    "title": "Review Q4 Marketing Strategy",
+    "description": "Go through the quarterly marketing plan and provide feedback on the campaign strategies",
+    "dueDate": "2024-01-15",
+    "priority": "high",
+    "completed": false,
+    "listId": 1,
+    "createdAt": "2024-01-10T09:00:00.000Z",
+    "completedAt": null
+  },
+  {
+    "Id": 2,
+    "title": "Update project documentation",
+    "description": "Add new API endpoints and update the getting started guide",
+    "dueDate": "2024-01-12",
+    "priority": "medium",
+    "completed": false,
+    "listId": 2,
+    "createdAt": "2024-01-10T10:30:00.000Z",
+    "completedAt": null
+  },
+  {
+    "Id": 3,
+    "title": "Team standup meeting",
+    "description": "Daily sync with the development team",
+    "dueDate": "2024-01-11",
+    "priority": "low",
+    "completed": true,
+    "listId": 1,
+    "createdAt": "2024-01-10T08:00:00.000Z",
+    "completedAt": "2024-01-11T09:15:00.000Z"
+  },
+  {
+    "Id": 4,
+    "title": "Fix authentication bug",
+    "description": "Users are experiencing issues with OAuth login flow",
+    "dueDate": "2024-01-13",
+    "priority": "high",
+    "completed": false,
+    "listId": 2,
+    "createdAt": "2024-01-10T14:20:00.000Z",
+    "completedAt": null
+  },
+  {
+    "Id": 5,
+    "title": "Prepare presentation slides",
+    "description": "Create slides for the client demo next week",
+    "dueDate": "2024-01-16",
+    "priority": "medium",
+    "completed": false,
+    "listId": 1,
+    "createdAt": "2024-01-10T11:45:00.000Z",
+    "completedAt": null
+  }
+]
